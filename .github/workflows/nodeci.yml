@@ -1,0 +1,14 @@
+name: Node CI
+on: push
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout 🛎️
+          uses: actions/checkout@master
+          
+        - name: Install 🔧
+          run: npm install
+
+        - name: Test 🚨
+          run: npm test

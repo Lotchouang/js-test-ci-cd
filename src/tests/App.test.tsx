@@ -46,7 +46,7 @@ test("test addition fonctional", () => {
     buttonEqual.dispatchEvent(new MouseEvent("click", { bubbles: true }));
   });
 
-  expect(label.textContent).toBe(Number(12 + 12).toString());
+  expect(label.textContent).toBe(Number(12 + 10).toString());
 });
 
 test("test substraction fonctional", () => {
