@@ -11,7 +11,7 @@ test("show multiple examples", () => {
     square,
   } = result.current;
 
-  expect(addition('1','1')).toEqual('2');
+  expect(addition('1','1')).toEqual('3');
   expect(substraction('2','2')).toEqual('0');
   expect(division('4','2')).toEqual('2');
   expect(modulo('4','2')).toEqual('0');
