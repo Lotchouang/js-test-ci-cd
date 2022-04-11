@@ -1,4 +1,4 @@
-[![Node CI](https://github.com/Lotchouang/js-test-ci-cd/actions/workflows/nodeci.yml/badge.svg?branch=master&event=push)](https://github.com/Lotchouang/js-test-ci-cd/actions/workflows/nodeci.yml)
+[![Node CI](https://github.com/Lotchouang/js-test-ci-cd/actions/workflows/nodeci.yml/badge.svg)](https://github.com/Lotchouang/js-test-ci-cd/actions/workflows/nodeci.yml)
 
 # Getting Started with Create React App
 
